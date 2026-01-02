@@ -1,4 +1,6 @@
 // Digital Root Calculator 
+// Kunal Burnwal
+// ERP: 11740
 #include <stdio.h>
 int main(){
     int n,sum;
@@ -15,4 +17,5 @@ int main(){
     }
     printf("Result: %d",n);
     return 0;
+
 }
